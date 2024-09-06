@@ -1,4 +1,4 @@
-Markdown
+Dessvendeando atletas com o Google Gemini
 ## **README descontraído para o seu projeto no GitHub**
 
 **## Busca Rápida de Atletas: Diga "Oi" para seu novo melhor amigo esportivo!**
